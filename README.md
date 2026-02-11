@@ -1,39 +1,31 @@
-# 🌤️ Weather App
+# 🌦️ Weather App
 
-A modern and responsive **Weather Application** built using **React + Vite** that provides real-time weather information and a 5-day forecast.
+A responsive weather application built using **React** that shows real-time weather and a 5-day forecast for any city.
 
----
+## 🚀 Live Demo
+https://weather-app-theta-dun-62.vercel.app
 
-## 🚀 Features
+## 💻 GitHub Repo
+https://github.com/FatimaSayyed27/weather-app
 
-- 🔍 Search weather by city name  
-- 📍 Get current location weather (Geolocation)  
-- 🌡️ Temperature, Feels Like & Humidity in one row  
-- 📅 5-Day weather forecast  
-- 🌙 Light / Dark mode toggle  
-- 🎨 Glassmorphism UI with smooth animations  
-- ⏳ Loader & error handling  
-- 📱 Fully responsive design  
-
----
+## ✨ Features
+- Search weather by city
+- Current location weather
+- 5-day forecast
+- Dark / Light mode
+- Loader & error handling
+- Responsive UI
 
 ## 🛠️ Tech Stack
+- React
+- Vite
+- Tailwind CSS
+- OpenWeather API
+- Vercel
 
-- **React (Vite)**
-- **Tailwind CSS**
-- **OpenWeatherMap API**
-- **JavaScript (ES6+)**
-
----
-
-## 📸 Preview
-
-> Clean, minimal and modern weather dashboard with animated UI.
-
----
-
-## ⚙️ Installation & Setup
-
-1. Clone the repository
+## ⚙️ Run Locally
 ```bash
-[git clone https://github.com/USERNAME/weather-app.git](https://github.com/FatimaSayyed27/weather-app.git)
+git clone https://github.com/FatimaSayyed27/weather-app.git
+cd weather-app
+npm install
+npm run dev
