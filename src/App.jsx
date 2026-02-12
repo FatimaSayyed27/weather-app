@@ -123,7 +123,7 @@ function App() {
     text-3xl md:text-4xl
     font-bold
     tracking-wider
-    text-white italic
+    text-white 
     drop-shadow-sm
   "
           >
